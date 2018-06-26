@@ -11,6 +11,6 @@ export default () =>
       <Link to="/page-2/">Link</Link>
     </div>
     <div>
-      <Link to="/page-3/">Link</Link>
+      <Link to="/Counter/">Link</Link>
     </div>
   </div>
